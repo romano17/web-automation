@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke Tests" verbose="1">
+    <test name="Sample Smoke Test">
+    <!-- Add the classes which contain tests -->
+    <!--
+        <classes>
+            <class name="com.globant.automation.SmokeTestClassName"/>
+        </classes>
+    -->
+    </test>
+</suite>
